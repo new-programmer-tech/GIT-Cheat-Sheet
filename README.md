@@ -2,7 +2,7 @@
 
 1. `git log --oneline`
 2.  `cat .gitconfig`
-3.  
+3.  `git diff --stage`
     
 
 
