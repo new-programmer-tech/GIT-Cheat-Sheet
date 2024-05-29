@@ -2,7 +2,7 @@
 
 | Command                   | Description                                                       |
 |---------------------------|-------------------------------------------------------------------|
-| `git log --oneline`       | Displays the commit history in a compact, one-line format.|
+| `git log --oneline`       | Displays the commit history in a compact, one-line format.        |
 | `cat .gitconfig`          | Shows the contents of the `.gitconfig` file, which contains Git configuration settings. |
 | `git diff --staged`       | Shows the differences between the staging area and the last commit. |
 | `git stash`               | Stashes changes in the working directory, allowing you to switch branches without committing changes. |
