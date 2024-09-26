@@ -45,3 +45,5 @@
 ```bash
 # Display commit history in one-line format
 git log --oneline
+
+git reset --hard origin/<branch-name>
